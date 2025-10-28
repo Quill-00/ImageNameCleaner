@@ -50,7 +50,7 @@ After completion, the tool **opens the target folder** and generates logs: `repo
 ---
 
 ## 小提示 / Tips
-- “移动”会在**复制并校验成功后**删除源文件，更安全。  
+- “移除模式”会在**复制并校验成功后**删除源文件，更安全。  
   In **Move** mode, sources are deleted **only after copy & verification**, which is safer.
 - 如果缩略图没刷新，手动刷新或重启资源管理器即可。  
   If thumbnails don’t refresh, manually refresh or restart Windows Explorer.
