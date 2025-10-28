@@ -1,0 +1,15 @@
+# 大规模数据集重命名迁移工具依赖包
+# 版本：v1.0
+# 研发者：QUILL
+# 许可协议：Apache-2.0 License
+
+# 核心依赖
+configparser>=5.0.0
+pathlib>=1.0.0
+
+# 可选依赖（用于拼音转换）
+pypinyin>=0.44.0
+
+# 开发和测试依赖（可选）
+pytest>=6.0.0
+pytest-cov>=2.10.0
